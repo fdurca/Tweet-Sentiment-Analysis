@@ -1,0 +1,2 @@
+# Tweet-Sentiment-Analysis
+This project was made to analyze a large data set of tweet meta data in North America. It goes through the tweets and searches for keywords to score the tweets sentiment (Ie "Happy" has a higher sentiment score than "Sad"). After scoring the tweets, it applies an average score to each region based on the longitude and latitude of the tweet to show which regions are "happier" than others. This was done using Python
